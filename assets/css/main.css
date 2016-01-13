@@ -88,6 +88,15 @@
 	a#project-link {
     color: rgb(0, 161, 255);
 	}
+	@media screen and (min-width: 1681px) {
+		img#mooveeme {
+    height: 113%;
+		}
+
+		img#bejeweled {
+    height: 120%;
+		}	
+	}
 
 	@media screen and (max-width: 1680px) {
 		img#mooveeme {
