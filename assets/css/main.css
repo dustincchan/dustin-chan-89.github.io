@@ -85,6 +85,10 @@
 		width: 1140px;
 	}
 
+	a#project-link {
+    color: rgb(0, 161, 255);
+	}
+
 	@media screen and (max-width: 1680px) {
 		img#mooveeme {
     width: 100%;
